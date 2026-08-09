@@ -11,13 +11,13 @@ It is structured, professional, and ready to drop directly into GitHub.
 
 ---
 
-# **WAAM Logger Dataset**
+# WAAM Logger Dataset
 A traceable, FAIR‑aligned experimental dataset for single‑bead Wire Arc Additive Manufacturing (WAAM).  
 This repository provides structured process records, profilometric metrology, geometric descriptors, and benchmark models designed to support reproducible research, machine‑learning development, and digital‑thread workflows in arc‑based additive manufacturing.
 
 ---
 
-## ** Repository Structure**
+## Repository Structure
 
 ```
 waam-logger/
@@ -32,7 +32,7 @@ waam-logger/
 
 ---
 
-## ** Dataset Overview**
+##  Dataset Overview
 
 The dataset contains **traceable single-bead WAAM depositions** across multiple materials and process conditions.  
 Each deposition run is assigned a **unique `exp_id`** and includes:
@@ -48,7 +48,7 @@ The dataset supports **registry-level consistency checks**, **predictive modelin
 
 ---
 
-## **📊 Data Subsets**
+## Data Subsets
 
 | Subset | Description |
 |--------|-------------|
@@ -60,7 +60,7 @@ These subsets ensure analyses use only validated, quality-controlled records.
 
 ---
 
-## ** Metrology & Profilometry**
+##  Metrology & Profilometry
 
 Profilometric imaging is performed using a **Keyence VR‑600 optical scanner**, producing:
 
@@ -73,7 +73,7 @@ All scans are linked to their corresponding `exp_id`.
 
 ---
 
-## ** Geometric Descriptors**
+## Geometric Descriptors
 
 The WAAM Logger provides standardized geometry metrics, including:
 
@@ -87,7 +87,7 @@ These descriptors follow the definitions in the WAAM Logger workflow and are rep
 
 ---
 
-## ** Benchmark Models**
+##  Benchmark Models
 
 The repository includes baseline predictive models for:
 
@@ -101,7 +101,7 @@ These baselines provide a reference point for new machine-learning approaches.
 
 ---
 
-## ** FAIR Compliance**
+##  FAIR Compliance
 
 The dataset follows the **FAIR data principles**:
 
@@ -115,7 +115,7 @@ Formal standards compliance was not independently assessed.
 
 ---
 
-## ** Citation**
+##  Citation
 
 If you use this dataset, please cite:
 
