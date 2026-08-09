@@ -125,6 +125,6 @@ If you use this dataset, please cite:
 
 ---
 
-## ** Contact**
+## Contact
 
 For questions, contributions, or collaboration inquiries, please open an issue or contact the maintainers.
